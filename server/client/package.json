@@ -1,0 +1,23 @@
+{
+  "name": "client",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@gsap/react": "^2.1.0",
+    "axios": "^1.6.8",
+    "gsap-trial": "^3.12.5",
+    "locomotive-scroll": "^5.0.0-beta.11",
+    "preact": "^10.19.6",
+    "react-hook-form": "^7.51.1"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.8.2",
+    "vite": "^5.2.0"
+  }
+}
