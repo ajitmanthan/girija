@@ -12,7 +12,7 @@ router.post('/signup',(req,res)=>{
 //     console.log('if')
 //     return res.status(212).json({code:'500'})
 // }
-
+fwafwafwafawfwa
 
  new Signup ({uname,upass}).save() 
 
